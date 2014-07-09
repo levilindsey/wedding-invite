@@ -1,0 +1,27 @@
+Inkscape
+- 5x5 circle, no stroke, 35 opacity, select it
+
+- Edit>Clone>Create Tiled Clones...
+- Shift:
+		ROW	COL	RANDOM
+	X:	0	-60	50
+	Y:	0	0	50
+	Exp:	.8	1
+- Scale:
+		ROW	COL	RANDOM
+	X:	0	0	120
+	Y:	0	0	120
+	Exp:	1	1
+- Blur & opacity:
+		ROW	COL	RANDOM
+	Blur:	0	0	40
+	Fade:	0	0	100
+- 3 rows x 160 columns
+
+- select all clones, group them, rotate 90 degrees CCW
+- draw (freehand or curve) the path of the brush stroke
+- move dot group to top
+- select dot group and path of the brush stroke
+
+- Extensions>Generate from path>Pattern along path...
+- Copies of the pattern: Single, stretched

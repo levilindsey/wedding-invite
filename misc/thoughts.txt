@@ -1,0 +1,22 @@
+Why
+
+Where
+
+Home/welcome - date and COUNT DOWN in big letters, getting married, picture, check back lots, tabs at top
+
+RSVP - write a simple form which writes to file all of their input (AND sends an email to us)
+
+Registry
+
+
+
+
+
+*****************
+   * bubbles *   
+*****************
+- 
+- 
+- 
+- 
+- 
