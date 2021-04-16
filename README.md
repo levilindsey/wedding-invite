@@ -2,7 +2,7 @@
 
 #### A wedding invite and RSVP app.
 
-_See the app running at [www.jackieandlevi.com/wedding/invite](http://www.jackieandlevi.com/wedding/invite)!_
+_See the app running at [levi.dev/wedding/invite](https://levi.dev/wedding/invite)!_
 
 This app was used as the invite and RSVP system for Levi and his wife's wedding.
 
